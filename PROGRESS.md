@@ -35,10 +35,10 @@
 - [x] 모노레포 폴더 구조 설정
 - [x] frontend: Vite + Svelte 프로젝트 초기화 (Svelte 4 + Tailwind + shadcn-svelte)
 - [x] backend: Express 프로젝트 초기화
-- [ ] ESLint + Prettier 설정 (frontend)
-- [ ] ESLint + Prettier 설정 (backend)
+- [x] ESLint + Prettier 설정 (frontend)
+- [x] ESLint + Prettier 설정 (backend)
 - [x] `.gitignore` 작성
-- [ ] `.env.example` 작성
+- [x] `.env.example` 작성
 - [ ] README.md 초안 작성
 - [x] AI_CONTEXT.md 작성
 - [x] PROGRESS.md 작성 (이 파일)
