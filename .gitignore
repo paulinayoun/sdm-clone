@@ -23,4 +23,11 @@ dist-ssr
 *.sln
 *.sw?
 
-*.md
+# AI Context files
+AI_CONTEXT.md
+PROGRESS.md
+CONVENTIONS.md
+SESSION_START.md
+TROUBLESHOOTING.md
+PLAN.md
+CLAUDE.md
